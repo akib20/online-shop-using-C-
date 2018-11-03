@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1495362964 source:d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"part_A.h"
+	"part_C1.h"
+	"Akib1.h"
+	"Address.h"
+	"admin.h"
+	"part_D.h"
+
+1495362916 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\part_a.h
+	"part_C1.h"
+
+1495362747 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\part_c1.h
+	"Address.h"
+
+1495362920 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\address.h
+	"part_C1.h"
+	<iostream>
+
+1495364483 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\akib1.h
+	<iostream>
+	<string>
+	<fstream>
+	"Address.h"
+	"admin.h"
+	"new Assignment partC.h"
+
+1495362747 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\admin.h
+	"part_D.h"
+	<iostream>
+
+1495362928 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\part_d.h
+	"part_C1.h"
+
+1495364038 d:\hadi\desktop\sem 2\kie1008-prog 2\our programming\new assignment partc.h
+
